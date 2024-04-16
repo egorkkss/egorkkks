@@ -77,7 +77,7 @@ footer {
 }
 
 .gallery-img {
-    max-width: 45%;
+    max-width: 30%;
     height: auto;
     display: block;
     margin: 0 auto;
@@ -86,7 +86,7 @@ footer {
 }
 
 #contact img {
-    width: 30px; /* Уменьшаем размер иконки Telegram */
+    width: 78px; /* Уменьшаем размер иконки Telegram */
     height: auto;
     cursor: pointer;
     transition: transform 0.3s ease;
